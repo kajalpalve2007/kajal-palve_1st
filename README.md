@@ -2,9 +2,9 @@
 
 <h3 align="center">A passionate Engineer From India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
+
+
 
 - 👨‍💻 All of my projects are available at [https://kajalpalve2007.github.io/kajalaplv2007.io/]
 
@@ -24,7 +24,7 @@
 <h3 align="left">Support:</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasatpute&" alt="divyasatpute" /></p>
 
